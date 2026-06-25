@@ -137,7 +137,7 @@ Além disso, o projeto é modular, simples e pode ser facilmente expandido.
 ## Instruções de Execução:
 
  - Download do arquivo simulador.py
- - python3 simulador.py no terminal
+ - `python3 simulador.py` no terminal
 
 ---
 
